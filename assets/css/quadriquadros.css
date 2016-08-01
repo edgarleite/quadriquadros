@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial;
+    color: #353535;
+}
+
+form, #preview {
+    width: 47%;
+    padding: 1%;
+    border: 1px solid #CCC;
+}
+
+form {
+    float: left;
+}
+
+#preview {
+    float: right;
+}
+
+.container { margin-top: 5px; }
+
+canvas {
+    border: solid 1px;
+}
